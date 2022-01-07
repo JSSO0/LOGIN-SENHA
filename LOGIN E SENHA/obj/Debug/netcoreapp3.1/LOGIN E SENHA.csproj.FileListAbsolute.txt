@@ -1,0 +1,17 @@
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\bin\Debug\netcoreapp3.1\LOGIN E SENHA.exe
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\bin\Debug\netcoreapp3.1\LOGIN E SENHA.deps.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\bin\Debug\netcoreapp3.1\LOGIN E SENHA.runtimeconfig.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\bin\Debug\netcoreapp3.1\LOGIN E SENHA.runtimeconfig.dev.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\bin\Debug\netcoreapp3.1\LOGIN E SENHA.dll
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\bin\Debug\netcoreapp3.1\LOGIN E SENHA.pdb
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.csproj.GenerateResource.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.AssemblyInfoInputs.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.AssemblyInfo.cs
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.csproj.CoreCompileInputs.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.dll
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.pdb
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.genruntimeconfig.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN_E_SENHA.btnConfirmar.resources
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN_E_SENHA.Form2.resources
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\LOGIN E SENHA\obj\Debug\netcoreapp3.1\LOGIN E SENHA.csproj.AssemblyReference.cache
